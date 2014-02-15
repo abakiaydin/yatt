@@ -1,7 +1,7 @@
 yatt
 ====
 
-Yet Another Tweeter Tweeter
+Yet Another Twitter Tweeter
 
 An android tweet manager
 
